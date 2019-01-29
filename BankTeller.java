@@ -1,4 +1,4 @@
-public class BankTeller2 {
+public class BankTeller {
 
 public static void BankTeller(){
  
