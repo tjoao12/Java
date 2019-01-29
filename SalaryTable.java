@@ -1,4 +1,4 @@
-public class SalaryTable3 {
+public class SalaryTable {
 
 public static void columnhead(){
         
