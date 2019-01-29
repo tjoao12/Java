@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Teixeira_Joao_13137111{
+public class wordCounter{
   
     public static void main(String args[]) {
       
