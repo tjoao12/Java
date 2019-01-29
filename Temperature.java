@@ -1,5 +1,5 @@
 
-public class Temperature4 
+public class Temperature
     
     {
 
